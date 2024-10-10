@@ -2,7 +2,7 @@
 For this project, I worked with a dataset from 2017 released by Instacart. Instacart is a grocery delivery platform where customers can order groceries and have it delivered to their homes. I conducted an explorative data analysis on the data and answered informative business questions for the project.
 
 # Datasets Description
-There are five tables in the dataset, and you’ll need to use all of them to do your data preprocessing and EDA. Below is a data dictionary that lists the columns in each table and describes that data that hold.
+There are five tables in the dataset. Below is a data dictionary that lists the columns in each table and describes the data that it holds.
 
 `instacart_orders.csv`: each row corresponds to one order on the Instacart app
 - 'order_id': ID number that uniquely identifies each order
